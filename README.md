@@ -1,2 +1,1 @@
-# cursopython
-Many exercises of python
+# Steps
