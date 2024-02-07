@@ -1,0 +1,9 @@
+services:
+  app-csv:
+    build:
+      context: .
+      dockerfile: dockerfile
+    volumes:
+      - .:/web-server
+    ports:
+      - "8080:8080"
